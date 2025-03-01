@@ -1,0 +1,15 @@
+/Users/IceTea/Projects/Tech_shop_U4_22/bin/Debug/net7.0/Tech_shop_U4_22
+/Users/IceTea/Projects/Tech_shop_U4_22/bin/Debug/net7.0/Tech_shop_U4_22.deps.json
+/Users/IceTea/Projects/Tech_shop_U4_22/bin/Debug/net7.0/Tech_shop_U4_22.runtimeconfig.json
+/Users/IceTea/Projects/Tech_shop_U4_22/bin/Debug/net7.0/Tech_shop_U4_22.dll
+/Users/IceTea/Projects/Tech_shop_U4_22/bin/Debug/net7.0/Tech_shop_U4_22.pdb
+/Users/IceTea/Projects/Tech_shop_U4_22/obj/Debug/net7.0/Tech_shop_U4_22.csproj.AssemblyReference.cache
+/Users/IceTea/Projects/Tech_shop_U4_22/obj/Debug/net7.0/Tech_shop_U4_22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Projects/Tech_shop_U4_22/obj/Debug/net7.0/Tech_shop_U4_22.AssemblyInfoInputs.cache
+/Users/IceTea/Projects/Tech_shop_U4_22/obj/Debug/net7.0/Tech_shop_U4_22.AssemblyInfo.cs
+/Users/IceTea/Projects/Tech_shop_U4_22/obj/Debug/net7.0/Tech_shop_U4_22.csproj.CoreCompileInputs.cache
+/Users/IceTea/Projects/Tech_shop_U4_22/obj/Debug/net7.0/Tech_shop_U4_22.dll
+/Users/IceTea/Projects/Tech_shop_U4_22/obj/Debug/net7.0/refint/Tech_shop_U4_22.dll
+/Users/IceTea/Projects/Tech_shop_U4_22/obj/Debug/net7.0/Tech_shop_U4_22.pdb
+/Users/IceTea/Projects/Tech_shop_U4_22/obj/Debug/net7.0/Tech_shop_U4_22.genruntimeconfig.cache
+/Users/IceTea/Projects/Tech_shop_U4_22/obj/Debug/net7.0/ref/Tech_shop_U4_22.dll

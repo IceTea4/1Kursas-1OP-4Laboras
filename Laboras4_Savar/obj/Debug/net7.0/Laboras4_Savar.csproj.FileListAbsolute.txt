@@ -1,0 +1,15 @@
+/Users/IceTea/Projects/Laboras4_Savar/bin/Debug/net7.0/Laboras4_Savar
+/Users/IceTea/Projects/Laboras4_Savar/bin/Debug/net7.0/Laboras4_Savar.deps.json
+/Users/IceTea/Projects/Laboras4_Savar/bin/Debug/net7.0/Laboras4_Savar.runtimeconfig.json
+/Users/IceTea/Projects/Laboras4_Savar/bin/Debug/net7.0/Laboras4_Savar.dll
+/Users/IceTea/Projects/Laboras4_Savar/bin/Debug/net7.0/Laboras4_Savar.pdb
+/Users/IceTea/Projects/Laboras4_Savar/obj/Debug/net7.0/Laboras4_Savar.csproj.AssemblyReference.cache
+/Users/IceTea/Projects/Laboras4_Savar/obj/Debug/net7.0/Laboras4_Savar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Projects/Laboras4_Savar/obj/Debug/net7.0/Laboras4_Savar.AssemblyInfoInputs.cache
+/Users/IceTea/Projects/Laboras4_Savar/obj/Debug/net7.0/Laboras4_Savar.AssemblyInfo.cs
+/Users/IceTea/Projects/Laboras4_Savar/obj/Debug/net7.0/Laboras4_Savar.csproj.CoreCompileInputs.cache
+/Users/IceTea/Projects/Laboras4_Savar/obj/Debug/net7.0/Laboras4_Savar.dll
+/Users/IceTea/Projects/Laboras4_Savar/obj/Debug/net7.0/refint/Laboras4_Savar.dll
+/Users/IceTea/Projects/Laboras4_Savar/obj/Debug/net7.0/Laboras4_Savar.pdb
+/Users/IceTea/Projects/Laboras4_Savar/obj/Debug/net7.0/Laboras4_Savar.genruntimeconfig.cache
+/Users/IceTea/Projects/Laboras4_Savar/obj/Debug/net7.0/ref/Laboras4_Savar.dll

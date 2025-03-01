@@ -1,0 +1,20 @@
+﻿Programos uzduotys:
+Bent vienas polimorfizmo panaudojimo įrodymas; SetData?
+Duomenų klasė turi realizuoti IComparable ir IEquatable sąsajas; ?
+
+Vienetu testai;
+Pagrindinė programa įgyvendina išimčių valdymą. Metodai atlieka kontrolę ir sukelia išimtis;
+Internetinė naudotojo sąsaja;
+Pradiniai duomenys ir rezultatai rodomi ekrane lentelėmis;
+Pradiniai duomenys ir rezultatai spausdinami lentelėmis tekstiniame faile;
+
+Komentarai;
+Kodo lygiavimas;
+
+
+Ataskaita:
+Kiekvienam LD ruošiama ataskaita .pdf formatu pagal pateiktą šabloną;
+Ataskaitos failas įvardijamas: Grupė_Pavardė_Vardas (Pvz: IFF-3-1_Pavardenis_Vardenis);
+Studentas paruošia kelis testo variantus programos skirtingų kelių tikrinimui;
+Jei naudojami vienetų testai, visi vienetų testai įtraukiami į ataskaitos testų dalį;
+Dėstytojo pastabas, kurias gauna iš dėstytojo už programą ir ataskaitą, į ataskaitą įtraukia studentas. Į dėstytojo pastabas taip pat įtraukiamas testo balas ir galutinis darbo vertinimas;

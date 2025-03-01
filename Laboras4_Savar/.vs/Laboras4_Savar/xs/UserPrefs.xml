@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{9A1CA82A-0AA9-4022-B70C-10E3256B3ADC}|Default">
+  <MonoDevelop.Ide.ItemProperties.Laboras4__Savar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="InOut.cs" Line="75" Column="40" />
+      <File FileName="TaskUtils.cs" Line="100" Column="50" />
+      <File FileName="Branch.cs" Line="43" Column="40" />
+      <File FileName="Animal.cs" Line="79" Column="28" />
+      <File FileName="GuineaPig.cs" Line="28" Column="87" />
+      <File FileName="AnimalMarked.cs" Line="51" Column="14" />
+      <File FileName="Cat.cs" Line="34" Column="42" />
+      <File FileName="Dog.cs" Line="9" Column="143" />
+      <File FileName="L3Data_Kaunas.csv" Line="10" Column="49" />
+      <File FileName="L3Data_Kaunas2.csv" Line="9" Column="44" />
+      <File FileName="L3Data_Siauliai.csv" Line="6" Column="41" />
+      <File FileName="L3Data_Vilnius.csv" Line="7" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laboras4_Savar" expanded="True">
+            <Node name="Laboras4_Savar" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

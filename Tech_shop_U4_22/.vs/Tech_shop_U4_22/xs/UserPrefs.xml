@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{771466A5-A437-47E4-ADBF-B5DF9A408F59}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="13" Column="30" />
+      <File FileName="InOut.cs" Line="13" Column="38" />
+      <File FileName="TaskUtils.cs" Line="3" Column="26" />
+      <File FileName="Shops.cs" Line="5" Column="20" />
+      <File FileName="Device.cs" Line="23" Column="4" />
+      <File FileName="Fridge.cs" Line="12" Column="37" />
+      <File FileName="Oven.cs" Line="3" Column="26" />
+      <File FileName="Kettle.cs" Line="17" Column="4" />
+      <File FileName="First.csv" Line="7" Column="1" />
+      <File FileName="Second.csv" Line="7" Column="1" />
+      <File FileName="Third.csv" Line="7" Column="1" />
+      <File FileName="Tasks.txt" Line="16" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tech_shop_U4_22" expanded="True">
+            <Node name="Tech_shop_U4_22" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tech__shop__U4__22 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
